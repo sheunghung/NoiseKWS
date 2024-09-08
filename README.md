@@ -1,2 +1,2 @@
 # NoiseKWS
-The dataset and codes of NoiseKWS.
+The partial dataset and codes of NoiseKWS.
